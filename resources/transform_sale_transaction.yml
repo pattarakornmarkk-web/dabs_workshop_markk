@@ -1,7 +1,7 @@
 resources:
   jobs:
     transform_gold:
-      name: transform_gold_${bundle.target}
+      name: transform_gold_eiei
 
       trigger:
         periodic:

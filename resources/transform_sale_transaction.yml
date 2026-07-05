@@ -5,7 +5,7 @@ resources:
 
       trigger:
         periodic:
-          interval: 2
+          interval: 1
           unit: DAYS
 
       parameters:
